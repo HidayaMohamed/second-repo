@@ -1,2 +1,6 @@
 # This is my second repo
-This is my second repository, and I pushed it to GitHub.
+This is my second repository, which contains three files 
+-'README.md'
+-'style.css'
+-'index.html'
+
