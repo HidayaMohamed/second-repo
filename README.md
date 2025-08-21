@@ -1,6 +1,6 @@
 # This is my second repo
 This is my second repository, which contains three files 
--'README.md'
--'style.css'
--'index.html'
+ 1. README.md
+ 2. style.css
+ 3. index.html
 
